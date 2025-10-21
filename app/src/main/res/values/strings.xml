@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarWarsPlanets</string>
+    <string name="planet_image_desc">Planet Thumbnail Image</string>
+
+    <string name="planet_name">Planet Name: %1$s</string>
+    <string name="orbit">Orbit Period: %1$s</string>
+    <string name="gravity">Gravity: %1$s</string>
+
+</resources>
